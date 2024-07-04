@@ -1,0 +1,9 @@
+p{color: red;}
+div p { color: aqua}
+div>p.micky { color: brown;}
+p.micky { color: blueviolet;}
+div#myid {color: crimson; }
+div span {color: cornflowerblue;}
+input[type="text" ].micky {
+color: darkgreen;
+}
